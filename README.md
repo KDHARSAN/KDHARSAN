@@ -10,6 +10,46 @@
 
 ---
 
+---
+
+# ⚙️ Core Skills & Technologies
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 Programming & Software Engineering
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,react&theme=dark"/>
+
+### ☁ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github&theme=dark"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+### 🔌 Embedded & Systems
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Engineering Focus
+
+- Autonomous Navigation Architectures  
+- AI Model Deployment in Embedded Pipelines  
+- AWS-Based Scalable System Design  
+- Real-Time Signal & Sensor Data Interpretation  
+- Backend System Reliability & Modularity  
+
+---
+
 # 🧠 Engineering Summary
 
 B.Tech Computer Science (3rd Year) building **intelligent, real-world systems** integrating:
@@ -63,45 +103,6 @@ Focus Areas:
 - Real-Time Anomaly Interpretation
 - Actionable Intelligence Systems
 
----
-
-# ⚙️ Core Skills & Technologies
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🖥 Programming & Software Engineering
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,react&theme=dark"/>
-
-### ☁ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github&theme=dark"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
-### 🔌 Embedded & Systems
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Engineering Focus
-
-- Autonomous Navigation Architectures  
-- AI Model Deployment in Embedded Pipelines  
-- AWS-Based Scalable System Design  
-- Real-Time Signal & Sensor Data Interpretation  
-- Backend System Reliability & Modularity  
-
----
 
 # 📊 GitHub Engineering Metrics
 
