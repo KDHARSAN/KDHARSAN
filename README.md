@@ -40,7 +40,7 @@ Achieved **>95% Relative Localization Accuracy** under testing
 # 🏅 Major Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YUVA%20International%20Hackathon-Winner-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YUVA%20Hackathon(Botify)-Winner-FFD700?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prize-₹5,000-0A192F?style=for-the-badge"/>
 </p>
 
