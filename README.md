@@ -103,20 +103,20 @@ Focus Areas:
 
 ---
 
-# 📈 GitHub Engineering Metrics
+# 📊 GitHub Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KDHARSAN&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHARSAN&theme=tokyonight&hide_border=true" height="170"/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
-
----
-
-# 📊 Contribution Matrix
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=tokyonight" />
 </p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
 
 
 
