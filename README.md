@@ -112,10 +112,10 @@ Focus Areas:
 
 ---
 
-# 📊 Engineering Activity Dashboard
+# 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KDHARSAN&show_icons=false&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 
