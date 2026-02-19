@@ -9,6 +9,33 @@
 </p>
 
 ---
+# ⚙️ Core Skills & Technologies
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 Programming & Software
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,react&theme=dark"/>
+
+### ☁ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github&theme=dark"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
+
+### 🔌 Embedded & Systems
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 # 🧠 Engineering Summary
 
@@ -22,6 +49,16 @@ B.Tech Computer Science (3rd Year) focused on building **real-world intelligent 
 Strong interest in  **mission-critical software design** and **space-technology-inspired navigation systems**.
 
 ---
+# 🚀 Engineering Focus
+
+- Autonomous Navigation Architectures  
+- AI Model Integration into Hardware Pipelines  
+- Cloud-Connected Intelligent Systems (AWS)  
+- Real-Time Signal Interpretation  
+- Scalable Backend Logic  
+
+---
+
 
 # 🏆 Highlight Achievement
 
@@ -65,44 +102,6 @@ Focus Areas:
 
 ---
 
-# ⚙️ Core Skills & Technologies
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🖥 Programming & Software
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,react&theme=dark"/>
-
-### ☁ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github&theme=dark"/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
-### 🔌 Embedded & Systems
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Engineering Focus
-
-- Autonomous Navigation Architectures  
-- AI Model Integration into Hardware Pipelines  
-- Cloud-Connected Intelligent Systems (AWS)  
-- Real-Time Signal Interpretation  
-- Scalable Backend Logic  
-
----
-
 # 📊 GitHub Contribution Matrix
 
 <p align="center">
@@ -117,18 +116,15 @@ Focus Areas:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
-
-
-
 ---
 
 # 🌐 Connect
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:dharsan11032006@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/dharsan-kamaraj">
     <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
