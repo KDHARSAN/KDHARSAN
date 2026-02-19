@@ -1,12 +1,17 @@
-<!-- ====================== ANIMATED HEADER ====================== -->
+<!-- ================= CUSTOM NAME BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=250&section=header&text=Dharsan%20K&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Embedded%20Systems%20Engineer&descAlignY=60&descSize=20"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Dharsan%20K&width=1000&height=250"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2800&pause=1200&color=64FFDA&center=true&vCenter=true&width=1000&lines=Autonomous%20Systems%20Engineer;AI%20%7C%20Embedded%20Integration;Smart%20India%20Hackathon%20National%20Winner;Published%20Researcher%20in%20Explainable%20AI;Building%20Mission-Critical%20Intelligent%20Systems"/>
+  <b>Software Developer | Embedded Systems Engineer</b>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Autonomous%20Systems%20Engineer;AI%20%7C%20Embedded%20Integration;Smart%20India%20Hackathon%20Winner;Mission-Critical%20Systems%20Builder"/>
+</p>
+
 
 ---
 
@@ -14,29 +19,18 @@
 
 # ⚙️ Core Skills & Technologies
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Programming&align=center&width=500&theme=dark&lineCount=1&line1=python,java,kotlin,dart,react"/>
+</p>
 
-### 🖥 Programming & Software Engineering
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,react&theme=dark"/>
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI%20%2F%20ML&align=center&width=500&theme=dark&lineCount=1&line1=pytorch,tensorflow,opencv"/>
+</p>
 
-### ☁ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github&theme=dark"/>
+<p align="center">
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Cloud%20%26%20Systems&align=center&width=500&theme=dark&lineCount=1&line1=aws,linux,git,github,arduino,raspberrypi"/>
+</p>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark"/>
-
-### 🔌 Embedded & Systems
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
