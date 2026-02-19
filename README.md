@@ -116,10 +116,10 @@ Focus Areas:
 # 🌐 Connect
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:dharsan11032006@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="www.linkedin.com/in/dharsan-kamaraj">
     <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
