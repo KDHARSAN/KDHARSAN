@@ -112,11 +112,12 @@ Focus Areas:
 
 ---
 
-# 📊 Contribution Activity
+# 📊 Engineering Activity Dashboard
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=radical" />
 </p>
+
 
 
 ---
