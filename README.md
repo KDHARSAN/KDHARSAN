@@ -5,21 +5,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2800&pause=1200&color=64FFDA&center=true&vCenter=true&width=1000&lines=Autonomous%20Systems%20Engineer;AI%20%7C%20Embedded%20Integration;Smart%20India%20Hackathon%20National%20Winner;Published%20Researcher%20in%20XAI;Building%20Mission-Critical%20Intelligent%20Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2800&pause=1200&color=64FFDA&center=true&vCenter=true&width=1000&lines=Autonomous%20Systems%20Engineer;AI%20%7C%20Embedded%20Integration;Smart%20India%20Hackathon%20National%20Winner;Published%20Researcher%20in%20Explainable%20AI;Building%20Mission-Critical%20Intelligent%20Systems"/>
 </p>
 
 ---
 
 # 🧠 Engineering Summary
 
-B.Tech Computer Science (3rd Year) focused on building **real-world intelligent systems** that integrate:
+B.Tech Computer Science (3rd Year) building **intelligent, real-world systems** integrating:
 
-- Artificial Intelligence  
-- Embedded Hardware  
+- Artificial Intelligence & Machine Learning  
+- Embedded Hardware & Sensor Systems  
 - Autonomous Architectures  
-- Cloud-Backed Scalable Systems  
+- AWS Cloud-Backed Infrastructure  
 
-Strong interest in  **mission-critical software design** and **space-technology-inspired navigation systems**.
+Focused on **mission-critical system design**, reliability, and scalable engineering.
 
 ---
 
@@ -31,16 +31,16 @@ Strong interest in  **mission-critical software design** and **space-technology-
 </p>
 
 **Theme:** Space Technology  
-Built a **Satellite Receiver System Prototype**  
-Led **Hardware Integration & R&D**  
-Achieved **>95% Relative Localization Accuracy** under testing  
+Developed a **Satellite Receiver System Prototype**  
+Led **Hardware Integration & R&D Validation**  
+Achieved **>85% Relative Localization Accuracy** under controlled testing  
 
 ---
 
-# 🏅 Major Achievements
+# 🏅 Major Recognitions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YUVA%20Hackathon(Botify)-Winner-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YUVA%20International%20Hackathon-Winner-FFD700?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prize-₹5,000-0A192F?style=for-the-badge"/>
 </p>
 
@@ -49,19 +49,19 @@ Achieved **>95% Relative Localization Accuracy** under testing
   <img src="https://img.shields.io/badge/Prize-₹5,000-0A192F?style=for-the-badge"/>
 </p>
 
-
 ---
 
 # 📚 Research
 
 **“An Accountable and Actionable XAI Framework for Real-Time Critical Infrastructure Defence”**
 
-Presented at international level.  
+International Research Presentation  
+
 Focus Areas:
-- Explainable AI
-- Infrastructure threat modeling
-- Anomaly interpretation analysis 
-- Actionable intelligence systems
+- Explainable AI (XAI)
+- Infrastructure Threat Modeling
+- Real-Time Anomaly Interpretation
+- Actionable Intelligence Systems
 
 ---
 
@@ -71,7 +71,7 @@ Focus Areas:
 <tr>
 <td width="50%" valign="top">
 
-### 🖥 Programming & Software
+### 🖥 Programming & Software Engineering
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,dart,react&theme=dark"/>
 
 ### ☁ Cloud & DevOps
@@ -96,26 +96,26 @@ Focus Areas:
 # 🚀 Engineering Focus
 
 - Autonomous Navigation Architectures  
-- AI Model Integration into Hardware Pipelines  
-- Cloud-Connected Intelligent Systems (AWS)  
-- Real-Time Signal Interpretation  
-- Scalable Backend Logic  
+- AI Model Deployment in Embedded Pipelines  
+- AWS-Based Scalable System Design  
+- Real-Time Signal & Sensor Data Interpretation  
+- Backend System Reliability & Modularity  
 
 ---
 
-# 📈 GitHub Engineering Metrics
+# 📊 GitHub Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KDHARSAN&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHARSAN&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=KDHARSAN&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KDHARSAN/KDHARSAN/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KDHARSAN&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
