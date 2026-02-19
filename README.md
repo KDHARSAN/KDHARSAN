@@ -112,11 +112,12 @@ Focus Areas:
 
 ---
 
-# 🐍 Contribution Activity
+# 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KDHARSAN/KDHARSAN/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=tokyonight" />
 </p>
+
 
 ---
 
