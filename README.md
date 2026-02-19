@@ -36,19 +36,6 @@
 </table>
 
 ---
-
-# 🧠 Engineering Summary
-
-B.Tech Computer Science (3rd Year) focused on building **real-world intelligent systems** that integrate:
-
-- Artificial Intelligence  
-- Embedded Hardware  
-- Autonomous Architectures  
-- Cloud-Backed Scalable Systems  
-
-Strong interest in  **mission-critical software design** and **space-technology-inspired navigation systems**.
-
----
 # 🚀 Engineering Focus
 
 - Autonomous Navigation Architectures  
