@@ -1,32 +1,17 @@
 <div align="center">
 
-<!-- BANNER: Pure SVG — works on all GitHub regions, no external dependency -->
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0A192F"/>
-      <stop offset="100%" style="stop-color:#112240"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#64FFDA;stop-opacity:0"/>
-      <stop offset="50%" style="stop-color:#64FFDA;stop-opacity:1"/>
-      <stop offset="100%" style="stop-color:#64FFDA;stop-opacity:0"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
-  <rect x="0" y="155" width="800" height="1" fill="url(#line)" opacity="0.4"/>
-  <text x="400" y="75" font-family="monospace" font-size="38" font-weight="bold" fill="#64FFDA" text-anchor="middle" letter-spacing="4">DHARSAN KAMARAJ</text>
-  <text x="400" y="108" font-family="monospace" font-size="13" fill="#CCD6F6" text-anchor="middle" letter-spacing="1">Software Developer · AI &amp; ML Engineer · Embedded Systems</text>
-  <text x="400" y="132" font-family="monospace" font-size="12" fill="#8892B0" text-anchor="middle">SRM IST · CGPA 9.55 · Smart India Hackathon 2025 National Champion</text>
-  <circle cx="60" cy="40" r="25" fill="#64FFDA" opacity="0.04"/>
-  <circle cx="740" cy="160" r="35" fill="#64FFDA" opacity="0.04"/>
-  <circle cx="720" cy="30" r="12" fill="#64FFDA" opacity="0.06"/>
-  <circle cx="80" cy="170" r="18" fill="#64FFDA" opacity="0.06"/>
-</svg>
+<!-- TOP WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0D2137,100:112240&height=120&section=header&animation=fadeIn" />
+
+<!-- NAME TITLE using typing svg as the "banner" — most reliable animated header on GitHub -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=2000&color=64FFDA&center=true&vCenter=true&width=700&height=70&lines=DHARSAN+KAMARAJ" alt="Name" />
+
+<!-- ROLE LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=CCD6F6&center=true&vCenter=true&width=750&height=30&lines=Software+Developer+%7C+AI+%26+ML+Engineer+%7C+Embedded+Systems+Engineer" alt="Role" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Smart+India+Hackathon+2025+National+Winner+%F0%9F%8F%86;Deep+Learning+%7C+Computer+Vision+%7C+Embedded+AI;Ministry+of+Defence+Problem+Solver+%F0%9F%9B%A1%EF%B8%8F;Published+Researcher+in+XAI+%26+Defence+AI;Building+Systems+That+Operate+Beyond+Assumptions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=8892B0&center=true&vCenter=true&width=700&height=28&lines=🏆+SIH+2025+National+Winner+%7C+₹1%2C50%2C000+Prize;🧠+Deep+Learning+%7C+Computer+Vision+%7C+Embedded+AI;🛡️+Ministry+of+Defence+Problem+Solver;📄+Published+Researcher+in+XAI+%26+Defence+AI;⚡+Building+Systems+That+Operate+Beyond+Assumptions" alt="Highlights" />
 
 <br/>
 
@@ -346,16 +331,6 @@ Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
 
 <br/>
 
-<!-- FOOTER SVG — inline, no external dependency -->
-<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#112240"/>
-      <stop offset="100%" style="stop-color:#0A192F"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="80" fill="url(#footer-bg)" rx="8"/>
-  <text x="400" y="46" font-family="monospace" font-size="14" fill="#64FFDA" text-anchor="middle" letter-spacing="2">✦ Open to Opportunities ✦</text>
-</svg>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0A192F&height=100&section=footer&text=Open%20to%20Opportunities&fontSize=16&fontColor=64FFDA&animation=fadeIn&fontAlignY=65" />
 
 </div>
