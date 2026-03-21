@@ -235,13 +235,6 @@ Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KDHARSAN&show_icons=true&theme=tokyonight&border_color=64FFDA&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&bg_color=0D1117&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDHARSAN&layout=compact&theme=tokyonight&border_color=64FFDA&title_color=64FFDA&text_color=CCD6F6&bg_color=0D1117&langs_count=8" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHARSAN&theme=tokyonight&border=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&background=0D1117&sideLabels=CCD6F6&dates=8892B6" />
 
 <br/><br/>
