@@ -1,17 +1,10 @@
 <div align="center">
 
-<!-- TOP WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0D2137,100:112240&height=120&section=header&animation=fadeIn" />
+<!-- BANNER: capsule-render waving with name + tagline baked in — single image, always renders -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:0D2137,100:112240&height=240&section=header&text=DHARSAN%20KAMARAJ&fontSize=48&fontColor=64FFDA&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Embedded%20Systems%20Engineer&descSize=16&descAlignY=62&descColor=CCD6F6" />
 
-<!-- NAME TITLE using typing svg as the "banner" — most reliable animated header on GitHub -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=2000&color=64FFDA&center=true&vCenter=true&width=700&height=70&lines=DHARSAN+KAMARAJ" alt="Name" />
-
-<!-- ROLE LINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2800&pause=1000&color=CCD6F6&center=true&vCenter=true&width=750&height=30&lines=Software+Developer+%7C+AI+%26+ML+Engineer+%7C+Embedded+Systems+Engineer" alt="Role" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2600&pause=900&color=8892B0&center=true&vCenter=true&width=700&height=28&lines=🏆+SIH+2025+National+Winner+%7C+₹1%2C50%2C000+Prize;🧠+Deep+Learning+%7C+Computer+Vision+%7C+Embedded+AI;🛡️+Ministry+of+Defence+Problem+Solver;📄+Published+Researcher+in+XAI+%26+Defence+AI;⚡+Building+Systems+That+Operate+Beyond+Assumptions" alt="Highlights" />
+<!-- ROTATING ACHIEVEMENTS — no emojis in URL, plain text only for reliability -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2600&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&width=800&height=30&lines=SIH+2025+National+Winner+%7C+Prize+Rs.1%2C50%2C000;Deep+Learning+%7C+Computer+Vision+%7C+Embedded+AI;Ministry+of+Defence+Problem+Solver;Published+Researcher+in+XAI+%26+Defence+AI;Building+Systems+That+Operate+Beyond+Assumptions" alt="Highlights" />
 
 <br/>
 
