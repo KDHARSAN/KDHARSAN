@@ -251,9 +251,8 @@ Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
 
 <div align="center">
 
-> ⚠️ Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode handle
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=activity&border=1&radius=6" />
+<img src="https://leetcard.jacoblin.cool/rjsCHA28mn?theme=dark&font=Fira+Code&ext=activity&border=1&radius=6" />
 
 </div>
 
