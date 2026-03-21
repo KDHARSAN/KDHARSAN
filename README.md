@@ -245,15 +245,6 @@ Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=tokyonight" width="90%" />
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KDHARSAN&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KDHARSAN&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KDHARSAN&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KDHARSAN&theme=tokyonight&utcOffset=5.5" />
-
-</div>
-
 ---
 
 ## ⚡ LeetCode
