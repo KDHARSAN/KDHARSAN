@@ -1,8 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,100:112240&height=220&section=header&text=DHARSAN%20KAMARAJ&fontSize=42&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20Embedded%20Systems%20Engineer%20%7C%20National%20Hackathon%20Champion&descAlignY=60&descSize=13&descColor=CCD6F6" />
+<!-- BANNER: Pure SVG — works on all GitHub regions, no external dependency -->
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A192F"/>
+      <stop offset="100%" style="stop-color:#112240"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#64FFDA;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#64FFDA;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#64FFDA;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
+  <rect x="0" y="155" width="800" height="1" fill="url(#line)" opacity="0.4"/>
+  <text x="400" y="75" font-family="monospace" font-size="38" font-weight="bold" fill="#64FFDA" text-anchor="middle" letter-spacing="4">DHARSAN KAMARAJ</text>
+  <text x="400" y="108" font-family="monospace" font-size="13" fill="#CCD6F6" text-anchor="middle" letter-spacing="1">Software Developer · AI &amp; ML Engineer · Embedded Systems</text>
+  <text x="400" y="132" font-family="monospace" font-size="12" fill="#8892B0" text-anchor="middle">SRM IST · CGPA 9.55 · Smart India Hackathon 2025 National Champion</text>
+  <circle cx="60" cy="40" r="25" fill="#64FFDA" opacity="0.04"/>
+  <circle cx="740" cy="160" r="35" fill="#64FFDA" opacity="0.04"/>
+  <circle cx="720" cy="30" r="12" fill="#64FFDA" opacity="0.06"/>
+  <circle cx="80" cy="170" r="18" fill="#64FFDA" opacity="0.06"/>
+</svg>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=64FFDA&center=true&vCenter=true&width=750&lines=Smart+India+Hackathon+2025+National+Winner+%F0%9F%8F%86;Deep+Learning+%7C+Computer+Vision+%7C+Embedded+AI;Ministry+of+Defence+Problem+Solver+%F0%9F%9B%A1%EF%B8%8F;Published+Researcher+in+XAI+%26+Defence+AI;Building+Systems+That+Operate+Beyond+Assumptions" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Smart+India+Hackathon+2025+National+Winner+%F0%9F%8F%86;Deep+Learning+%7C+Computer+Vision+%7C+Embedded+AI;Ministry+of+Defence+Problem+Solver+%F0%9F%9B%A1%EF%B8%8F;Published+Researcher+in+XAI+%26+Defence+AI;Building+Systems+That+Operate+Beyond+Assumptions" alt="Typing SVG" />
 
 <br/>
 
@@ -65,37 +89,32 @@ print("Hire me? Yes. Absolutely yes.")
 ![Client](https://img.shields.io/badge/Client-Ministry%20of%20Defence-DC143C?style=flat-square)
 ![Theme](https://img.shields.io/badge/Theme-Space%20Technology-9B59B6?style=flat-square)
 
-> Built a **Cognitive Opportunistic LEO-PNT Receiver** for the Defence Space Agency, HQ IDS —  
+> Built a **Cognitive Opportunistic LEO-PNT Receiver** for the Defence Space Agency, HQ IDS —
 > solving GNSS jamming, spoofing & signal attenuation in denied environments.
-
-</div>
 
 <br/>
 
-<div align="center">
 <table>
 <tr>
 <td align="center" width="50%">
 
-**🥇 AI in Action: Beyond the Horizon**  
-National Inter-College Paper Presentation  
-![Prize](https://img.shields.io/badge/1st%20Place-₹5%2C000-FFD700?style=flat-square)  
+**🥇 AI in Action: Beyond the Horizon**
+National Inter-College Paper Presentation
+![Prize](https://img.shields.io/badge/1st%20Place-₹5%2C000-FFD700?style=flat-square)
 *"Glaucoma Detection & Segmentation in Fundus Images Using UNet"*
 
 </td>
 <td align="center" width="50%">
 
-**📄 Research Paper Published — 2025**  
-British University Vietnam (BUV)  
-![Status](https://img.shields.io/badge/Status-Published-64FFDA?style=flat-square)  
+**📄 Research Paper Published — 2025**
+British University Vietnam (BUV)
+![Status](https://img.shields.io/badge/Status-Published-64FFDA?style=flat-square)
 *"Accountable XAI Framework for Real-Time Critical Infrastructure Defence"*
 
 </td>
 </tr>
 </table>
-</div>
 
-<div align="center">
 <br/>
 
 ![Hackathons](https://img.shields.io/badge/Hackathons%20Won-2-FFD700?style=flat-square)
@@ -111,7 +130,7 @@ British University Vietnam (BUV)
 
 <div align="center">
 
-### 🧠 AI / ML / Computer Vision
+**🧠 AI / ML / Computer Vision**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -124,7 +143,7 @@ British University Vietnam (BUV)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square)
 
-### 🖥️ Programming & Full Stack Web
+**🖥️ Programming & Full Stack**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -138,7 +157,7 @@ British University Vietnam (BUV)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🔌 Embedded Systems & Hardware
+**🔌 Embedded & Hardware**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -147,7 +166,7 @@ British University Vietnam (BUV)
 ![IMU](https://img.shields.io/badge/IMU%20%7C%20GPS%20%7C%20Barometer-Sensors-orange?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🛠️ Tools & Platforms
+**🛠️ Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -169,13 +188,13 @@ OUTCOME : Smart India Hackathon 2025 — National WINNER (₹1,50,000)
 STATUS  : Functional prototype deployed & demonstrated nationally
 ```
 
-**Problem:** GNSS systems are vulnerable to jamming, spoofing & signal attenuation.  
+**Problem:** GNSS systems are vulnerable to jamming, spoofing & signal attenuation.
 **Solution:** Cognitive receiver using non-PNT LEO satellite signals as alternative navigation anchors.
 
-- 🔭 RF front-end + SDR signal processing chain deployed on Raspberry Pi
+- 🔭 RF front-end + SDR signal processing chain on Raspberry Pi
 - 📡 Doppler shift estimation & timing synchronization modules
 - 🧭 System-level compensation models for GNSS-denied environments
-- ⚡ Real-time embedded prototype with full hardware–software integration
+- ⚡ Real-time embedded prototype — full hardware–software integration
 
 ---
 
@@ -195,7 +214,7 @@ OUTCOME : 1st Place — National AI Paper Presentation + Published Research
 | Model Parameters | **34M** |
 
 - 🧠 ResAtt-UNet from scratch — residual blocks + attention gates
-- 📈 Augmentation pipeline (flips, rotations, brightness) doubled dataset diversity
+- 📈 Augmentation pipeline doubled dataset diversity
 - ⚙️ Adam optimizer + binary cross-entropy for stable convergence
 
 ---
@@ -204,7 +223,6 @@ OUTCOME : 1st Place — National AI Paper Presentation + Published Research
 
 ```
 TYPE      : Review Paper | Published Research
-FOCUS     : Explainable AI | Defence | Real-Time Security
 PUBLISHED : 2025 — British University Vietnam (BUV)
 SCOPE     : International-level presentation
 ```
@@ -212,7 +230,6 @@ SCOPE     : International-level presentation
 - Transparency & accountability in AI-driven security systems
 - XAI methodologies for defence-oriented architectures
 - Real-time risk mitigation & critical infrastructure threat modeling
-- Anomaly interpretation & actionable intelligence systems
 
 ---
 
@@ -221,29 +238,44 @@ SCOPE     : International-level presentation
 ```
 Jul–Sep 2025  Java Full Stack Intern — AICTE EduSkills
               Spring Boot | REST APIs | MySQL | HTML/CSS/JS | Git | Full SDLC
-              Built & integrated end-to-end web modules connecting backend to responsive UIs
 
 Apr–Sep 2024  Administrator Intern — Skill Academia  (6 months)
               Technical operations | System administration | Project documentation
 
 Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
               Python | Neural Networks | Feature Engineering | Hyperparameter Optimization
-              Deployed ML pipelines for real-world datasets
 ```
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHARSAN&theme=tokyonight&border=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&background=0D1117&sideLabels=CCD6F6&dates=8892B6" />
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=KDHARSAN&show_icons=true&theme=tokyonight&border_color=64FFDA&title_color=64FFDA&icon_color=64FFDA&text_color=CCD6F6&bg_color=0D1117&include_all_commits=true&count_private=true&hide_border=false" width="340" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KDHARSAN&layout=compact&theme=tokyonight&border_color=64FFDA&title_color=64FFDA&text_color=CCD6F6&bg_color=0D1117&langs_count=6" width="260" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KDHARSAN&theme=tokyonight&border=64FFDA&ring=64FFDA&fire=FF6B6B&currStreakLabel=64FFDA&background=0D1117&sideLabels=CCD6F6&dates=8892B6" width="480" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KDHARSAN&theme=tokyo-night&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FF6B6B&area=true&hide_border=false&border_color=64FFDA" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KDHARSAN&theme=tokyo-night&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FF6B6B&area=true&hide_border=false&border_color=64FFDA" width="680" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=tokyonight" width="90%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KDHARSAN&theme=tokyonight" width="680" />
+
+</div>
 
 ---
 
@@ -251,8 +283,7 @@ Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
 
 <div align="center">
 
-
-<img src="https://leetcard.jacoblin.cool/rjsCHA28mn?theme=dark&font=Fira+Code&ext=activity&border=1&radius=6" />
+<img src="https://leetcard.jacoblin.cool/rjsCHA28mn?theme=dark&font=Fira+Code&ext=activity&border=1&radius=6" width="460" />
 
 </div>
 
@@ -294,11 +325,11 @@ Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
 | | Capability |
 |---|---|
 | 🛡️ | Solved **real Ministry of Defence problems** — not toy datasets |
-| 🛰️ | Built a **live satellite signal receiver prototype** on $20 hardware |
+| 🛰️ | Built a **live satellite signal receiver** prototype on $20 hardware |
 | 🧠 | Designed a **34M-parameter medical AI model** with 98.38% accuracy |
 | 📄 | **Published internationally** — still in 3rd year of undergrad |
 | 🏆 | **National hackathon champion** — proven under pressure |
-| ⚙️ | Bridge the gap between **AI research and embedded systems** |
+| ⚙️ | Bridges **AI research and embedded systems** |
 | 🔬 | Goes from **idea → hardware prototype → deployed system** end-to-end |
 
 ---
@@ -315,6 +346,16 @@ Jun–Jul 2024  Machine Learning Intern — Internship Studio  (1 month)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:112240,100:0A192F&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=18&fontColor=64FFDA&animation=twinkling&fontAlignY=70" />
+<!-- FOOTER SVG — inline, no external dependency -->
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#112240"/>
+      <stop offset="100%" style="stop-color:#0A192F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="80" fill="url(#footer-bg)" rx="8"/>
+  <text x="400" y="46" font-family="monospace" font-size="14" fill="#64FFDA" text-anchor="middle" letter-spacing="2">✦ Open to Opportunities ✦</text>
+</svg>
 
 </div>
